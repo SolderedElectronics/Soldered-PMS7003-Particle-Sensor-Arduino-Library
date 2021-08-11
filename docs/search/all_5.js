@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['initializenative_10',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['get_5frhum_5foffset_26',['get_rhum_offset',['../class_serial_p_m.html#adadb4e11cd0aa01d2a5c832010c7f5d7',1,'SerialPM']]],
+  ['get_5ftemp_5foffset_27',['get_temp_offset',['../class_serial_p_m.html#afacffa529f86544b11190f8032515afb',1,'SerialPM']]],
+  ['getserialport_28',['getSerialPort',['../class_serial_p_m.html#ad339b027de7709b9f14cd7a4c36ec42a',1,'SerialPM']]]
 ];

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['sendaddress_32',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_33',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]],
-  ['sensor_34',['Sensor',['../class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62',1,'Sensor']]]
+  ['get_5frhum_5foffset_127',['get_rhum_offset',['../class_serial_p_m.html#adadb4e11cd0aa01d2a5c832010c7f5d7',1,'SerialPM']]],
+  ['get_5ftemp_5foffset_128',['get_temp_offset',['../class_serial_p_m.html#afacffa529f86544b11190f8032515afb',1,'SerialPM']]],
+  ['getserialport_129',['getSerialPort',['../class_serial_p_m.html#ad339b027de7709b9f14cd7a4c36ec42a',1,'SerialPM']]]
 ];

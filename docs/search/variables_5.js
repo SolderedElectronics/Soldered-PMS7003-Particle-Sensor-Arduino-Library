@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['pin_40',['pin',['../class_sensor.html#a0efecf34431610766469857f25e113da',1,'Sensor']]]
+  ['hcho_162',['hcho',['../class_serial_p_m.html#ad68f48a0a9695380cd052d146d99fe0a',1,'SerialPM']]],
+  ['hwserial_163',['hwSerial',['../class_serial_p_m.html#a7d5c75f685d2383953ba6cfebb2e486a',1,'SerialPM']]]
 ];

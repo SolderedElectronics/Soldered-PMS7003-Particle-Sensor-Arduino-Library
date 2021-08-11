@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['readdata_14',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_15',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_16',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['max_5fwait_5fms_37',['max_wait_ms',['../class_serial_p_m.html#ab1c2e972b63ce7e57a6e5a9e398779e8',1,'SerialPM']]],
+  ['msglen_38',['msgLen',['../_p_mserial_8cpp.html#a5588821e0f7975373157364777ea995d',1,'PMserial.cpp']]]
 ];

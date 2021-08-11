@@ -8,13 +8,13 @@
 // Depending on board write different message and different serial
 #if defined(USE_HWSERIAL2)
 #define MSG "PMSx003 on HardwareSerial2"
-SerialPM pms(PMSx003, Serial2); // PMSx003, UART
+PMS7003 pms(PMSx003, Serial2); // PMSx003, UART
 #elif defined(USE_HWSERIAL1)
 #define MSG "PMSx003 on HardwareSerial1"
-SerialPM pms(PMSx003, Serial1); // PMSx003, UART
+PMS7003 pms(PMSx003, Serial1); // PMSx003, UART
 #else
 #define MSG "PMSx003 on HardwareSerial"
-SerialPM pms(PMSx003, Serial); // PMSx003, UART
+PMS7003 pms(PMSx003, Serial); // PMSx003, UART
 #endif
 
 void setup()

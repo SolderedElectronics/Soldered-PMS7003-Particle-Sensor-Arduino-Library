@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['easyc_126',['EasyC',['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC']]]
+  ['get_5frhum_5foffset_110',['get_rhum_offset',['../class_serial_p_m.html#adadb4e11cd0aa01d2a5c832010c7f5d7',1,'SerialPM']]],
+  ['get_5ftemp_5foffset_111',['get_temp_offset',['../class_serial_p_m.html#afacffa529f86544b11190f8032515afb',1,'SerialPM']]],
+  ['getserialport_112',['getSerialPort',['../class_serial_p_m.html#ad339b027de7709b9f14cd7a4c36ec42a',1,'SerialPM']]]
 ];

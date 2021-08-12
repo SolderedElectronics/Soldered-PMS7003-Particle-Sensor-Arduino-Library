@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['trigread_149',['trigRead',['../class_serial_p_m.html#a7d6e08b0891f55d49b2c88e7cdf9e6d6',1,'SerialPM']]]
+  ['waited_5fms_128',['waited_ms',['../class_serial_p_m.html#ad7a2147e6a23f249cd4cf3f6eabc4a05',1,'SerialPM']]],
+  ['wake_129',['wake',['../class_serial_p_m.html#ada6a1905af16f6be9c9b8511bc6d7e86',1,'SerialPM']]]
 ];

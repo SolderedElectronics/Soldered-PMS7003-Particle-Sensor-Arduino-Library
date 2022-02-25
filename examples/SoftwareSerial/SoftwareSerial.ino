@@ -1,6 +1,15 @@
-// SoftwareSerial.ino: Read PMS7003 sensor on SWSerial
-//
-// Modified by Soldered for use with PMS7003 board here https://solde.red/333058
+/**
+ **************************************************
+ *
+ * @file        SoftwareSerial.ino
+ * @brief       Read PMS7003 sensor on SWSerial1
+ *
+ *
+ *  product: www.solde.red/333058
+ *
+ * @authors     avaldebe
+ *              Modified by soldered.com
+ ***************************************************/
 
 // if used with ESP32 software serial is not needed
 #ifndef ESP32
@@ -20,33 +29,30 @@ PMS7003 pms(PMS_RX, PMS_TX); // PMSx003, RX, TX
 
 void setup()
 {
-    // Initialize Serial
-    Serial.begin(115200);
-
+    Serial.begin(115200);// Initialize serial communication with PC
     Serial.println(F("PMS sensor on SWSerial"));
     Serial.print(F("  RX:"));
     Serial.println(PMS_RX);
     Serial.print(F("  TX:"));
     Serial.println(PMS_TX);
 
-    // Initialize PMS7003
-    pms.begin();
+    pms.begin();// Initialize serial communication with sensor
 }
 
 void loop()
 {
-    // read the PM sensor
-    pms.read();
+    
+    pms.read(); // read the PM sensor
     if (pms)
     { // successfull read
         Serial.print(F("PM1.0 "));
-        Serial.print(pms.pm01);
+        Serial.print(pms.pm01); //Read PM0.1 particles concentration
         Serial.print(F(", "));
         Serial.print(F("PM2.5 "));
-        Serial.print(pms.pm25);
+        Serial.print(pms.pm25); //Read PM2.5 particles concentration
         Serial.print(F(", "));
         Serial.print(F("PM10 "));
-        Serial.print(pms.pm10);
+        Serial.print(pms.pm10); //Read PM10.0 particles concentration
         Serial.println(F(" [ug/m3]"));
 
         if (pms.has_number_concentration())

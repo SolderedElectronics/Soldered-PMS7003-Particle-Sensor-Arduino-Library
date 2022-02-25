@@ -1,6 +1,15 @@
-// HardwareSerial1.ino: Read PMS7003 sensor on Serial1
-//
-// Modified by Soldered for use with PMS7003 board here https://solde.red/333058
+/**
+ **************************************************
+ *
+ * @file        HardwareSerial.ino
+ * @brief       Read PMS7003 sensor on Serial1
+ *
+ *
+ *  product: www.solde.red/333058
+ *
+ * @authors     avaldebe
+ *              Modified by soldered.com
+ ***************************************************/
 
 #include "PMS7003-SOLDERED.h" // Arduino library for PM sensors with serial interface
 
@@ -19,29 +28,27 @@ PMS7003 pms(PMSx003, Serial); // PMSx003, UART
 
 void setup()
 {
-    // Initiate Serial
-    Serial.begin(115200);
+    
+    Serial.begin(115200);// Initialize serial communication with PC
     Serial.println(F("Booted"));
-
-    // Initiate PMS7003
     Serial.println(F(MSG));
-    pms.begin();
+    pms.begin(); // Initialize serial communication with sensor
 }
 
 void loop()
 {
-    // read the PM sensor
-    pms.read();
+    
+    pms.read(); // read the PM sensor
     if (pms)
     { // successfull read
         Serial.print(F("PM1.0 "));
-        Serial.print(pms.pm01);
+        Serial.print(pms.pm01); //Read PM0.1 particles concentration
         Serial.print(F(", "));
         Serial.print(F("PM2.5 "));
-        Serial.print(pms.pm25);
+        Serial.print(pms.pm25); //Read PM2.5 particles concentration
         Serial.print(F(", "));
         Serial.print(F("PM10 "));
-        Serial.print(pms.pm10);
+        Serial.print(pms.pm10); //Read PM10.0 particles concentration
         Serial.println(F(" [ug/m3]"));
 
         if (pms.has_number_concentration())

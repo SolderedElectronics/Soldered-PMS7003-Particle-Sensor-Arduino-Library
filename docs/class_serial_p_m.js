@@ -22,7 +22,7 @@ var class_serial_p_m =
     [ "decodeBuffer", "class_serial_p_m.html#a5c35584be13c973dcbfea8c965c7d42d", null ],
     [ "get_rhum_offset", "class_serial_p_m.html#adadb4e11cd0aa01d2a5c832010c7f5d7", null ],
     [ "get_temp_offset", "class_serial_p_m.html#afacffa529f86544b11190f8032515afb", null ],
-    [ "getSerialPort", "class_serial_p_m.html#ad339b027de7709b9f14cd7a4c36ec42a", null ],
+    [ "getSerialPort", "class_serial_p_m.html#ac59920b742c1468a25e767f53bfe7801", null ],
     [ "has_formaldehyde", "class_serial_p_m.html#a5df6c769e5fb18fe5e64bf1fe52522a2", null ],
     [ "has_number_concentration", "class_serial_p_m.html#a1b8caf10dc9792463509a8505d25381c", null ],
     [ "has_particulate_matter", "class_serial_p_m.html#aa0002279687e17b78e9781070644777f", null ],

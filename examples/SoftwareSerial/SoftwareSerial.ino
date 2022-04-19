@@ -5,7 +5,7 @@
  * @brief       Read PMS7003 sensor on SWSerial1
  *
  *
- *  product: www.solde.red/333058
+ *  product: www.solde.red/108978
  *
  * @authors     avaldebe
  *              Modified by soldered.com

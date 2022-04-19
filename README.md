@@ -5,7 +5,7 @@
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg)          |
 | :---------------------------------------------------------------------------------------------: |
-| [PMS7003 Particle Sensor](https://www.solde.red/333058)                                         |
+| [PMS7003 Particle Sensor](https://www.solde.red/108978)                                         |
 
 PMS7003 Particle Sensor Board by Soldered.
 

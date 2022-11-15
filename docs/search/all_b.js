@@ -19,7 +19,7 @@ var searchData=
   ['pms5003st_16',['PMS5003ST',['../_p_mserial_8h.html#affdef5256deb61d2ab44b07cdc28cafaa7ca9db3543cd5b7af4d017c9d92eb57f',1,'PMserial.h']]],
   ['pms5003t_17',['PMS5003T',['../_p_mserial_8h.html#affdef5256deb61d2ab44b07cdc28cafaa3c2dfa51bc9fa79c55cbe0b4d9fa268a',1,'PMserial.h']]],
   ['pms7003_18',['PMS7003',['../class_p_m_s7003.html#acb6675c978f33ef6fd4029b8a7d0c8af',1,'PMS7003::PMS7003()'],['../class_p_m_s7003.html',1,'PMS7003']]],
-  ['pms7003_20particle_20sensor_20arduino_20library_19',['PMS7003 Particle Sensor Arduino library',['../index.html',1,'']]],
+  ['pms7003_20sensor_20adapter_20arduino_20library_19',['PMS7003 sensor adapter Arduino library',['../index.html',1,'']]],
   ['pms7003_2dsoldered_2ecpp_20',['PMS7003-SOLDERED.cpp',['../_p_m_s7003-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
   ['pms7003_2dsoldered_2eh_21',['PMS7003-SOLDERED.h',['../_p_m_s7003-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
   ['pmsa003_22',['PMSA003',['../_p_mserial_8h.html#affdef5256deb61d2ab44b07cdc28cafaa74032fb85da3a6ae10e7c708c48b7ea1',1,'PMserial.h']]],

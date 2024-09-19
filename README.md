@@ -6,7 +6,7 @@
 
 | ![PMS7003 sensor adapter](https://github.com/SolderedElectronics/PMS7003-sensor-adapter-hardware-design/blob/main/OUTPUTS/V1.1.1/333058.jpg) |
 | :------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                            [PMS7003 sensor adapter](https://www.solde.red/333058)                                            |
+|                                            [PMS7003 sensor adapter](https://solde.red/333058)                                            |
 
 To connect to our PMS7003 air quality sensor easily, we designed this adapter. It allows you to connect the PMS7003 sensor to breadboard or to connect with cables.
 

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['max_5fwait_5fms_0',['max_wait_ms',['../class_serial_p_m.html#ab1c2e972b63ce7e57a6e5a9e398779e8',1,'SerialPM']]],
-  ['msglen_1',['msgLen',['../_p_mserial_8cpp.html#a5588821e0f7975373157364777ea995d',1,'PMserial.cpp']]]
+  ['init_0',['init',['../class_serial_p_m.html#a3a72e556345bb7caae7ed1dc250f7db8',1,'SerialPM']]]
 ];

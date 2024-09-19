@@ -1,8 +1,11 @@
 var searchData=
 [
-  ['read_0',['read',['../class_serial_p_m.html#a937b2d2af8698ce92f4f99694ee113bf',1,'SerialPM']]],
-  ['readme_2emd_1',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['rhum_2',['rhum',['../class_serial_p_m.html#a06731dd6cddfc446dae369cf7096b468',1,'SerialPM']]],
-  ['rhum_5foffset_3',['rhum_offset',['../class_serial_p_m.html#ad2f8026533da68d388aa0efe0ef9d3fc',1,'SerialPM']]],
-  ['rx_4',['rx',['../class_serial_p_m.html#ab853d854c05f1f8db304195a4bebd066',1,'SerialPM']]]
+  ['offset_20correction_20optional_0',['Temperature and humidity offset correction (Optional)',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md22',1,'']]],
+  ['ok_1',['OK',['../class_serial_p_m.html#a3d6c2c8867aba6f77a8c9a88b9439efba388b093125578220a68c0ba606ee6cd8',1,'SerialPM']]],
+  ['on_20hardwareserial_2',['PMSx003 on HardwareSerial',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md14',1,'']]],
+  ['on_20softwareserial_3',['PMSx003 on SoftwareSerial',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md15',1,'']]],
+  ['open_20source_20license_4',['Open-source license',['../index.html#autotoc_md7',1,'']]],
+  ['operator_20bool_5',['operator bool',['../class_serial_p_m.html#a59e4eee48cad74a69ee2e9e4286e08f5',1,'SerialPM']]],
+  ['optional_6',['Temperature and humidity offset correction (Optional)',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md22',1,'']]],
+  ['original_20source_7',['Original source',['../index.html#autotoc_md6',1,'']]]
 ];

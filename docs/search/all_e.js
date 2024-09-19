@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['temp_0',['temp',['../class_serial_p_m.html#aee3d8ac342c2c98692bf584b54d5116e',1,'SerialPM']]],
-  ['temp_5foffset_1',['temp_offset',['../class_serial_p_m.html#a119b64e07bf913a8dd8c6c58e3c1a132',1,'SerialPM']]],
-  ['trg_2',['trg',['../_p_mserial_8cpp.html#aa272f8adf88a042c67b616652f3acacc',1,'PMserial.cpp']]],
-  ['trigread_3',['trigRead',['../class_serial_p_m.html#a7d6e08b0891f55d49b2c88e7cdf9e6d6',1,'SerialPM']]],
-  ['tsi_5fstart_4',['TSI_START',['../_p_mserial_8cpp.html#accedff273937861d59d8673f4de6a7a3',1,'PMserial.cpp']]],
-  ['tx_5',['tx',['../class_serial_p_m.html#a9b3c27c4afd22e42edd253e4878eb796',1,'SerialPM']]]
+  ['read_0',['read',['../class_serial_p_m.html#a937b2d2af8698ce92f4f99694ee113bf',1,'SerialPM']]],
+  ['readme_2emd_1',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['repository_20contents_2',['Repository Contents',['../index.html#autotoc_md1',1,'']]],
+  ['rhum_3',['rhum',['../class_serial_p_m.html#a06731dd6cddfc446dae369cf7096b468',1,'SerialPM']]],
+  ['rhum_5foffset_4',['rhum_offset',['../class_serial_p_m.html#ad2f8026533da68d388aa0efe0ef9d3fc',1,'SerialPM']]],
+  ['rx_5',['rx',['../class_serial_p_m.html#ab853d854c05f1f8db304195a4bebd066',1,'SerialPM']]]
 ];

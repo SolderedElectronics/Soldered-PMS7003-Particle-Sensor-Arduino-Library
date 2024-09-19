@@ -1,4 +1,25 @@
 var searchData=
 [
-  ['uart_0',['uart',['../class_serial_p_m.html#a126c433ef0a154e8e354868949a7d3f7',1,'SerialPM']]]
+  ['sensor_20adapter_20arduino_20library_0',['PMS7003 sensor adapter Arduino library',['../index.html',1,'']]],
+  ['sensor_20message_20protocol_1',['Sensor message/protocol',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md18',1,'']]],
+  ['sensor_20type_2',['&lt;tt&gt;PMSx003&lt;/tt&gt; sensor type',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md13',1,'']]],
+  ['sensors_3',['Sensors',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md10',1,'']]],
+  ['serial1_4',['ESP32 Serial1',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md16',1,'']]],
+  ['serialpm_5',['SerialPM',['../class_serial_p_m.html',1,'SerialPM'],['../class_serial_p_m.html#aee71c3a42e9d5fde1f8ac4bbf92ebc44',1,'SerialPM::SerialPM(PMS sensor)'],['../class_serial_p_m.html#afb9ccfcf93d4266cada5654ccd8dc3a2',1,'SerialPM::SerialPM(PMS sensor, HardwareSerial &amp;serial)'],['../class_serial_p_m.html#a6dcec232c29ea34ddd8ec4c9d28ffb5f',1,'SerialPM::SerialPM(PMS sensor, uint8_t rx, uint8_t tx)'],['../class_serial_p_m.html#a02aeb93400161839a9b2524df5bd328c',1,'SerialPM::SerialPM(PMS sensor, Stream &amp;serial)'],['../class_serial_p_m.html#a6dcec232c29ea34ddd8ec4c9d28ffb5f',1,'SerialPM::SerialPM(PMS sensor, uint8_t rx, uint8_t tx)']]],
+  ['sermodehardware_6',['serModeHardware',['../class_serial_p_m.html#ad7588f80bbeca60e19659ff81b4589cca3f9750380c9fe6d036e3834b9ac4d7b1',1,'SerialPM']]],
+  ['sermodemanual_7',['serModeManual',['../class_serial_p_m.html#ad7588f80bbeca60e19659ff81b4589ccafda0bbc0e918a79df22567751c828c5e',1,'SerialPM']]],
+  ['sermodesoftware_8',['serModeSoftware',['../class_serial_p_m.html#ad7588f80bbeca60e19659ff81b4589cca67b6aff061882742c4e71217ad1ef9a8',1,'SerialPM']]],
+  ['set_5frhum_5foffset_9',['set_rhum_offset',['../class_serial_p_m.html#a134e52a871a38ff776122cb7a0b2025c',1,'SerialPM']]],
+  ['set_5ftemp_5foffset_10',['set_temp_offset',['../class_serial_p_m.html#aca17ebc2a1fd8cc93d00e492aae0eae2',1,'SerialPM']]],
+  ['setserialport_11',['setSerialPort',['../class_serial_p_m.html#af45851737343f79790eda749cc24543c',1,'SerialPM']]],
+  ['sleep_12',['sleep',['../class_serial_p_m.html#a63363b8c430978cab92ab4c3f1d76f07',1,'SerialPM']]],
+  ['slp_13',['slp',['../_p_mserial_8cpp.html#a287b3e3ee620e1b58044d01eadc9c482',1,'PMserial.cpp']]],
+  ['softwareserial_14',['PMSx003 on SoftwareSerial',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md15',1,'']]],
+  ['soldered_15',['About Soldered',['../index.html#autotoc_md5',1,'']]],
+  ['source_16',['Original source',['../index.html#autotoc_md6',1,'']]],
+  ['source_20license_17',['Open-source license',['../index.html#autotoc_md7',1,'']]],
+  ['src_2flibs_2fpmserial_2freadme_2emd_18',['README.md',['../src_2libs_2_p_mserial_2_r_e_a_d_m_e_8md.html',1,'']]],
+  ['status_19',['STATUS',['../class_serial_p_m.html#a3d6c2c8867aba6f77a8c9a88b9439efb',1,'SerialPM']]],
+  ['status_20',['status',['../class_serial_p_m.html#a0a3949ccf8696ea00e00f85501a20b1c',1,'SerialPM']]],
+  ['status_20and_20error_20codes_21',['Status and error codes',['..//github/workspace/gh-pages/src/libs/PMserial/README.md#autotoc_md21',1,'']]]
 ];
